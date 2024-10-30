@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AJpandas
+- 👀 I’m interested in business analysis 
+- 🌱 I’m currently learning R
